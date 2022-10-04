@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  @apply transition-all;
+}
+
+.font3 {
+  font-family: 'Poppins', sans-serif;
+}
+
